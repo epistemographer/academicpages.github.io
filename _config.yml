@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Josh Greenberg"
+  avatar           : "jmg.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Brooklyn, NY"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=vPtfjy0AAAAJ&hl"
-  email            : 
+  email            : "greenberg@sloan.org"
   uri              : 
   bitbucket        :
   codepen          :
